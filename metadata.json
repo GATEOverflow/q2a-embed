@@ -1,0 +1,15 @@
+{
+  "name": "Embed",
+  "uri": "https://github.com/NoahY/q2a-embed",
+  "description": "Embed video, Images and MP3 files",
+  "version": "1.7",
+  "date": "2011-07-30",
+  "author": "NoahY",
+  "author_uri": "",
+  "license": "GPLv2",
+  "update_uri": "https://raw.githubusercontent.com/NoahY/q2a-embed/metadata.json",
+  "min_q2a": "1.5",
+  "min_php": "5.1.6"
+  "load_order": "after_db_init"
+}
+
